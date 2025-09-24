@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/cicdfrontendreview/static/css/main.41254545.css",
-    "main.js": "/cicdfrontendreview/static/js/main.49e0be81.js",
-    "index.html": "/cicdfrontendreview/index.html",
-    "main.41254545.css.map": "/cicdfrontendreview/static/css/main.41254545.css.map",
-    "main.49e0be81.js.map": "/cicdfrontendreview/static/js/main.49e0be81.js.map"
+    "main.css": "/Anjusrisyamala/cicdfrontendreview.git/static/css/main.41254545.css",
+    "main.js": "/Anjusrisyamala/cicdfrontendreview.git/static/js/main.99e7c45b.js",
+    "index.html": "/Anjusrisyamala/cicdfrontendreview.git/index.html",
+    "main.41254545.css.map": "/Anjusrisyamala/cicdfrontendreview.git/static/css/main.41254545.css.map",
+    "main.99e7c45b.js.map": "/Anjusrisyamala/cicdfrontendreview.git/static/js/main.99e7c45b.js.map"
   },
   "entrypoints": [
     "static/css/main.41254545.css",
-    "static/js/main.49e0be81.js"
+    "static/js/main.99e7c45b.js"
   ]
 }
