@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Anjusrisyamala/cicdfrontendreview.git/static/css/main.41254545.css",
+    "main.js": "/Anjusrisyamala/cicdfrontendreview.git/static/js/main.49e0be81.js",
+    "index.html": "/Anjusrisyamala/cicdfrontendreview.git/index.html",
+    "main.41254545.css.map": "/Anjusrisyamala/cicdfrontendreview.git/static/css/main.41254545.css.map",
+    "main.49e0be81.js.map": "/Anjusrisyamala/cicdfrontendreview.git/static/js/main.49e0be81.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.41254545.css",
+    "static/js/main.49e0be81.js"
+  ]
+}
